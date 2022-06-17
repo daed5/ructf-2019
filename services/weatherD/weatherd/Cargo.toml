@@ -8,7 +8,7 @@ edition = "2018"
 gotham =  "0.3"
 gotham_derive =  "0.3"
 
-hyper = "0.12"
+hyper = "0.14"
 mime = "0.3"
 futures = "0.1.26"
 serde = "1"
